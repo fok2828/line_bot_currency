@@ -1,0 +1,22 @@
+[
+    {
+        "bank_name" : "台灣銀行",
+        "bank_link" : "https://rate.bot.com.tw/xrt?Lang=zh-TW"
+    },
+    {
+        "bank_name" : "台新銀行",
+        "bank_link" : "https://www.taishinbank.com.tw/TS/TS06/TS0605/TS060502/index.htm"
+    },    
+    {
+        "bank_name" : "玉山銀行",
+        "bank_link" : "https://www.esunbank.com.tw/bank/personal/deposit/rate/forex/foreign-exchange-rates"
+    },
+    {
+        "bank_name" : "中國信託",
+        "bank_link" : "https://www.ctbcbank.com/CTCBPortalWeb/pages/accessibleBank/rateInfo/exchangeRate.faces"    
+    },
+    {
+        "bank_name" : "國泰世華",
+        "bank_link" : "https://www.cathaybk.com.tw/cathaybk/personal/exchange/product/currency-billboard/"    
+    }
+]
